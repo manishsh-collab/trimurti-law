@@ -1,0 +1,16 @@
+{
+    "name": "legal-case-ai",
+    "version": "1.0.0",
+    "description": "Enterprise-grade AI-powered Legal Case Metadata Extraction System",
+    "author": "Legal AI Systems",
+    "license": "MIT",
+    "python_requires": ">=3.9",
+    "keywords": [
+        "legal",
+        "nlp",
+        "jurimetrics",
+        "case-law",
+        "metadata-extraction",
+        "ai"
+    ]
+}

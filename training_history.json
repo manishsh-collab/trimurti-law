@@ -1,0 +1,3185 @@
+[
+  {
+    "timestamp": "2026-02-06 18:08:03",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "healthcare",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "insurance",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "admiralty",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "aviation",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "election",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "education",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "entertainment",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "sports",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-06 18:04:39",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "federal_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "state_criminal",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "administrative",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "environmental",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "constitutional",
+        "Docs": 1,
+        "Added Points": "+124",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "healthcare",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "insurance",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "admiralty",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "aviation",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "election",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "education",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "entertainment",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "sports",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:58:43",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 625,
+        "Added Points": "+77500",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 625,
+        "Added Points": "+77500",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "violent_crime",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "white_collar",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "cybercrime",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "drug_offense",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "tort",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "property",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "family_law",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "employment",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "civil_rights",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "intellectual_property",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "bankruptcy",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "immigration",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "tax",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "lay_witness",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "expert_witness",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "forensic",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "digital",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      },
+      {
+        "Agent": "hearsay",
+        "Docs": 0,
+        "Added Points": "0 (Monitoring)",
+        "Status": "Active \ud83d\udfe2"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:51:37",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 625,
+        "Added Points": "+77500",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 625,
+        "Added Points": "+77500",
+        "Status": "Trained \u2705"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:18:04",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 50,
+        "Added Points": "+6200",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 50,
+        "Added Points": "+6200",
+        "Status": "Trained \u2705"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:17:19",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 100,
+        "Added Points": "+12400",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 100,
+        "Added Points": "+12400",
+        "Status": "Trained \u2705"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:17:05",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 98,
+        "Added Points": "+12152",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 98,
+        "Added Points": "+12152",
+        "Status": "Trained \u2705"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:16:46",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 90,
+        "Added Points": "+11160",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 90,
+        "Added Points": "+11160",
+        "Status": "Trained \u2705"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-02-05 15:16:16",
+    "report": [
+      {
+        "Agent": "federal_criminal",
+        "Docs": 92,
+        "Added Points": "+11408",
+        "Status": "Trained \u2705"
+      },
+      {
+        "Agent": "contract",
+        "Docs": 92,
+        "Added Points": "+11408",
+        "Status": "Trained \u2705"
+      }
+    ]
+  }
+]

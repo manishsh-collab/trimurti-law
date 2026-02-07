@@ -1,0 +1,49 @@
+# ==============================================================================
+# LEGAL CASE AI - Production Dependencies
+# Enterprise-grade AI-powered Legal Case Metadata Extraction System
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Core Dependencies
+# ------------------------------------------------------------------------------
+pydantic>=2.0.0              # Data validation and settings management
+python-dotenv>=1.0.0         # Environment configuration
+rich>=13.0.0                 # Beautiful terminal output
+typer>=0.9.0                 # Professional CLI framework
+
+# ------------------------------------------------------------------------------
+# AI/ML Stack
+# ------------------------------------------------------------------------------
+google-generativeai>=0.3.0   # Google Gemini API
+spacy>=3.7.0                 # NLP and NER
+scikit-learn>=1.3.0          # Machine learning
+numpy>=1.24.0                # Numerical computing
+pandas>=2.0.0                # Data manipulation
+
+# ------------------------------------------------------------------------------
+# NLP Enhancement
+# ------------------------------------------------------------------------------
+nltk>=3.8.0                  # Natural language toolkit
+dateparser>=1.2.0            # Intelligent date parsing
+phonenumbers>=8.13.0         # Phone number parsing
+
+# ------------------------------------------------------------------------------
+# Performance & Caching
+# ------------------------------------------------------------------------------
+diskcache>=5.6.0             # Disk-based caching
+joblib>=1.3.0                # Parallel processing
+tqdm>=4.66.0                 # Progress bars
+
+# ------------------------------------------------------------------------------
+# API & Web
+# ------------------------------------------------------------------------------
+httpx>=0.25.0                # Modern HTTP client
+tenacity>=8.2.0              # Retry logic
+
+# ------------------------------------------------------------------------------
+# Development (Optional)
+# ------------------------------------------------------------------------------
+# pytest>=7.4.0              # Testing framework
+# pytest-cov>=4.1.0          # Coverage reporting
+# black>=23.0.0              # Code formatting
+# mypy>=1.5.0                # Type checking
